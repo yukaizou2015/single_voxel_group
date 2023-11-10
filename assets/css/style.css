@@ -179,6 +179,23 @@ h6 {
 }
 
 /*--------------------------------------------------------------
+#  Slides Button (presentations and actions)
+--------------------------------------------------------------*/
+
+.slides-btn {
+  /* background: #ffc451; */
+  border: 0;
+  padding: 10px 10px;
+  color: #151515;
+  transition: 0.4s;
+}
+
+.slides-btn:hover {
+  /* background: #ffcd6b; */
+  color: #f1f1f1;
+}
+
+/*--------------------------------------------------------------
 #  Agenda Button (presentations and actions)
 --------------------------------------------------------------*/
 
