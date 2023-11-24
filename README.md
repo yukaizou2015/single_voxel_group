@@ -2,9 +2,8 @@
 
 ## To do
 
- - Add members
+ - Reach out to members in single voxel group for profiles being linked
  - Add profile pics and line of description
- - Add email address
 
 ## Running locally for development
 
