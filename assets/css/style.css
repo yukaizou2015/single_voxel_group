@@ -1595,3 +1595,16 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+/* https://stackoverflow.com/questions/25353955/bootstrap-list-inline-with-bullets */
+#footer .list-inline li {
+  display:inline-block;
+}
+
+#footer .list-inline li:after{
+  content:'|'; margin:0 10px;
+}
+
+#footer .list-inline li:last-child:after {
+  content: '';
+}
