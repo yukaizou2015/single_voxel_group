@@ -212,6 +212,16 @@ h6 {
   background: #ffcd6b;
 }
 
+.table {
+  width: 100%;
+  table-layout: auto;
+}
+
+.table td:first-child,
+.table th:first-child {
+  min-width: 140px;
+  white-space: nowrap;
+}
 
 /*--------------------------------------------------------------
 # Navigation Menu
